@@ -1,0 +1,6 @@
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\CountingDits\bin\Debug\CountingDits.exe.config
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\CountingDits\bin\Debug\CountingDits.exe
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\CountingDits\bin\Debug\CountingDits.pdb
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\CountingDits\obj\Debug\CountingDits.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\CountingDits\obj\Debug\CountingDits.exe
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\CountingDits\obj\Debug\CountingDits.pdb

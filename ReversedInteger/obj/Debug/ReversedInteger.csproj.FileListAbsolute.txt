@@ -1,0 +1,6 @@
+c:\users\денис\documents\visual studio 2015\Projects\LeetCodeSolutions\ReversedInteger\bin\Debug\ReversedInteger.exe.config
+c:\users\денис\documents\visual studio 2015\Projects\LeetCodeSolutions\ReversedInteger\bin\Debug\ReversedInteger.exe
+c:\users\денис\documents\visual studio 2015\Projects\LeetCodeSolutions\ReversedInteger\bin\Debug\ReversedInteger.pdb
+c:\users\денис\documents\visual studio 2015\Projects\LeetCodeSolutions\ReversedInteger\obj\Debug\ReversedInteger.csprojResolveAssemblyReference.cache
+c:\users\денис\documents\visual studio 2015\Projects\LeetCodeSolutions\ReversedInteger\obj\Debug\ReversedInteger.exe
+c:\users\денис\documents\visual studio 2015\Projects\LeetCodeSolutions\ReversedInteger\obj\Debug\ReversedInteger.pdb

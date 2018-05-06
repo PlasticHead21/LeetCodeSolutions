@@ -1,0 +1,6 @@
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\RomanDigits\bin\Debug\RomanDigits.exe.config
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\RomanDigits\bin\Debug\RomanDigits.exe
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\RomanDigits\bin\Debug\RomanDigits.pdb
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\RomanDigits\obj\Debug\RomanDigits.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\RomanDigits\obj\Debug\RomanDigits.exe
+C:\Users\Денис\Documents\Visual Studio 2015\Projects\LeetCodeSolutions\RomanDigits\obj\Debug\RomanDigits.pdb
